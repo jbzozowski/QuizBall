@@ -1,6 +1,6 @@
 # QuizBall
 
-QuizBall is a baseball trivia app I am developing with the goal have including questions for multiple teams.
+QuizBall is a baseball trivia app I am developing with the goal of being able to choose questions for a specific team.
 
 
 
