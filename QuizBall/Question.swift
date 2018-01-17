@@ -3,7 +3,7 @@
 //  Quizzler
 //
 //  Created by Julius Bzozowski on 1/14/18.
-//  Copyright © 2018 London App Brewery. All rights reserved.
+//  Copyright © 2018 Julius Bzozowski. All rights reserved.
 //
 
 import Foundation

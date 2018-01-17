@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  Quizzler
+//  QuizBall
 //
-//  Created by Angela Yu on 25/08/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
+//  Created by Julius Bzozowski on 1/16/2018.
+//  Copyright (c) 2018 Julius Bzozowski. All rights reserved.
 //
 
 import UIKit
@@ -31,8 +31,8 @@ class ViewController: UIViewController {
         nextQuestion()
         
     }
-
-
+    
+    
     @IBAction func answerPressed(_ sender: AnyObject) {
         if sender.tag == 1 {
             pickedAnswer = true
