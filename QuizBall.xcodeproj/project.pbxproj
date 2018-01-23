@@ -10,6 +10,7 @@
 		0C693148200E88D00070122E /* ProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 0C693146200E88D00070122E /* ProgressHUD.bundle */; };
 		0C693149200E88D00070122E /* ProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C693147200E88D00070122E /* ProgressHUD.m */; };
 		0C69314E200E8FE70070122E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C69314D200E8FE70070122E /* Images.xcassets */; };
+		0C893C482016838700FD6EB6 /* LandingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C893C472016838700FD6EB6 /* LandingViewController.swift */; };
 		0CE1B3A3200BF1FB009CB576 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE1B3A2200BF1FB009CB576 /* Question.swift */; };
 		0CE1B3A5200BFB55009CB576 /* QuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE1B3A4200BFB55009CB576 /* QuestionBank.swift */; };
 		0CF1D7ED200EDAD200EF9D38 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF1D7EC200EDAD200EF9D38 /* AboutViewController.swift */; };
@@ -25,6 +26,7 @@
 		0C693147200E88D00070122E /* ProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgressHUD.m; sourceTree = "<group>"; };
 		0C69314A200E8A360070122E /* QuizBall-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QuizBall-Bridging-Header.h"; sourceTree = "<group>"; };
 		0C69314D200E8FE70070122E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		0C893C472016838700FD6EB6 /* LandingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingViewController.swift; sourceTree = "<group>"; };
 		0CE1B3A2200BF1FB009CB576 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		0CE1B3A4200BFB55009CB576 /* QuestionBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionBank.swift; sourceTree = "<group>"; };
 		0CF1D7EC200EDAD200EF9D38 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				633646BE1B8C657400FF45E2 /* AppDelegate.swift */,
 				633646C01B8C657400FF45E2 /* ViewController.swift */,
 				0CF1D7EC200EDAD200EF9D38 /* AboutViewController.swift */,
+				0C893C472016838700FD6EB6 /* LandingViewController.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0CF1D7ED200EDAD200EF9D38 /* AboutViewController.swift in Sources */,
+				0C893C482016838700FD6EB6 /* LandingViewController.swift in Sources */,
 				0CE1B3A3200BF1FB009CB576 /* Question.swift in Sources */,
 				0CE1B3A5200BFB55009CB576 /* QuestionBank.swift in Sources */,
 				0C693149200E88D00070122E /* ProgressHUD.m in Sources */,
