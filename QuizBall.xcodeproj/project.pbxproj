@@ -11,11 +11,42 @@
 		0C693149200E88D00070122E /* ProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C693147200E88D00070122E /* ProgressHUD.m */; };
 		0C69314E200E8FE70070122E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C69314D200E8FE70070122E /* Images.xcassets */; };
 		0C893C482016838700FD6EB6 /* LandingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C893C472016838700FD6EB6 /* LandingViewController.swift */; };
+		0CC6CBA82022CA2C00FA8B27 /* logoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC6CBA72022CA2C00FA8B27 /* logoCell.swift */; };
+		0CC6CC062022DCEC00FA8B27 /* astros.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBE82022DCEC00FA8B27 /* astros.png */; };
+		0CC6CC072022DCEC00FA8B27 /* dodgers.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBE92022DCEC00FA8B27 /* dodgers.png */; };
+		0CC6CC082022DCEC00FA8B27 /* cubs.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBEA2022DCEC00FA8B27 /* cubs.png */; };
+		0CC6CC092022DCEC00FA8B27 /* pirates.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBEB2022DCEC00FA8B27 /* pirates.png */; };
+		0CC6CC0A2022DCEC00FA8B27 /* nationals.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBEC2022DCEC00FA8B27 /* nationals.png */; };
+		0CC6CC0B2022DCEC00FA8B27 /* tigers.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBED2022DCEC00FA8B27 /* tigers.png */; };
+		0CC6CC0C2022DCEC00FA8B27 /* reds.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBEE2022DCEC00FA8B27 /* reds.png */; };
+		0CC6CC0D2022DCEC00FA8B27 /* cardinals.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBEF2022DCEC00FA8B27 /* cardinals.png */; };
+		0CC6CC0E2022DCEC00FA8B27 /* orioles.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBF02022DCEC00FA8B27 /* orioles.png */; };
+		0CC6CC0F2022DCEC00FA8B27 /* padres.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBF12022DCEC00FA8B27 /* padres.png */; };
+		0CC6CC102022DCEC00FA8B27 /* whitesox.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBF22022DCEC00FA8B27 /* whitesox.png */; };
+		0CC6CC112022DCEC00FA8B27 /* mets.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBF32022DCEC00FA8B27 /* mets.png */; };
+		0CC6CC122022DCEC00FA8B27 /* rangers.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBF42022DCEC00FA8B27 /* rangers.png */; };
+		0CC6CC132022DCEC00FA8B27 /* bluejays.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBF52022DCEC00FA8B27 /* bluejays.png */; };
+		0CC6CC142022DCEC00FA8B27 /* diamondbacks.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBF62022DCEC00FA8B27 /* diamondbacks.png */; };
+		0CC6CC152022DCEC00FA8B27 /* braves.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBF72022DCEC00FA8B27 /* braves.png */; };
+		0CC6CC162022DCEC00FA8B27 /* rockies.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBF82022DCEC00FA8B27 /* rockies.png */; };
+		0CC6CC172022DCEC00FA8B27 /* mariners.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBF92022DCEC00FA8B27 /* mariners.png */; };
+		0CC6CC182022DCEC00FA8B27 /* athletics.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBFA2022DCEC00FA8B27 /* athletics.png */; };
+		0CC6CC192022DCEC00FA8B27 /* rays.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBFB2022DCEC00FA8B27 /* rays.png */; };
+		0CC6CC1A2022DCEC00FA8B27 /* twins.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBFC2022DCEC00FA8B27 /* twins.png */; };
+		0CC6CC1B2022DCEC00FA8B27 /* yankees.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBFD2022DCEC00FA8B27 /* yankees.png */; };
+		0CC6CC1C2022DCEC00FA8B27 /* indians.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBFE2022DCEC00FA8B27 /* indians.png */; };
+		0CC6CC1D2022DCEC00FA8B27 /* marlins.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CBFF2022DCEC00FA8B27 /* marlins.png */; };
+		0CC6CC1E2022DCEC00FA8B27 /* phillies.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CC002022DCEC00FA8B27 /* phillies.png */; };
+		0CC6CC1F2022DCEC00FA8B27 /* redsox.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CC012022DCEC00FA8B27 /* redsox.png */; };
+		0CC6CC202022DCEC00FA8B27 /* royals.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CC022022DCEC00FA8B27 /* royals.png */; };
+		0CC6CC212022DCEC00FA8B27 /* brewers.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CC032022DCEC00FA8B27 /* brewers.png */; };
+		0CC6CC222022DCEC00FA8B27 /* angels.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CC042022DCEC00FA8B27 /* angels.png */; };
+		0CC6CC232022DCEC00FA8B27 /* giants.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC6CC052022DCEC00FA8B27 /* giants.png */; };
 		0CE1B3A3200BF1FB009CB576 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE1B3A2200BF1FB009CB576 /* Question.swift */; };
 		0CE1B3A5200BFB55009CB576 /* QuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE1B3A4200BFB55009CB576 /* QuestionBank.swift */; };
 		0CF1D7ED200EDAD200EF9D38 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF1D7EC200EDAD200EF9D38 /* AboutViewController.swift */; };
 		633646BF1B8C657400FF45E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633646BE1B8C657400FF45E2 /* AppDelegate.swift */; };
-		633646C11B8C657400FF45E2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633646C01B8C657400FF45E2 /* ViewController.swift */; };
+		633646C11B8C657400FF45E2 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633646C01B8C657400FF45E2 /* QuestionViewController.swift */; };
 		633646C41B8C657400FF45E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 633646C21B8C657400FF45E2 /* Main.storyboard */; };
 		633646C91B8C657400FF45E2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 633646C71B8C657400FF45E2 /* LaunchScreen.xib */; };
 /* End PBXBuildFile section */
@@ -27,13 +58,44 @@
 		0C69314A200E8A360070122E /* QuizBall-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QuizBall-Bridging-Header.h"; sourceTree = "<group>"; };
 		0C69314D200E8FE70070122E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		0C893C472016838700FD6EB6 /* LandingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingViewController.swift; sourceTree = "<group>"; };
+		0CC6CBA72022CA2C00FA8B27 /* logoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = logoCell.swift; sourceTree = "<group>"; };
+		0CC6CBE82022DCEC00FA8B27 /* astros.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = astros.png; sourceTree = "<group>"; };
+		0CC6CBE92022DCEC00FA8B27 /* dodgers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dodgers.png; sourceTree = "<group>"; };
+		0CC6CBEA2022DCEC00FA8B27 /* cubs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cubs.png; sourceTree = "<group>"; };
+		0CC6CBEB2022DCEC00FA8B27 /* pirates.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pirates.png; sourceTree = "<group>"; };
+		0CC6CBEC2022DCEC00FA8B27 /* nationals.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nationals.png; sourceTree = "<group>"; };
+		0CC6CBED2022DCEC00FA8B27 /* tigers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tigers.png; sourceTree = "<group>"; };
+		0CC6CBEE2022DCEC00FA8B27 /* reds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reds.png; sourceTree = "<group>"; };
+		0CC6CBEF2022DCEC00FA8B27 /* cardinals.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardinals.png; sourceTree = "<group>"; };
+		0CC6CBF02022DCEC00FA8B27 /* orioles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = orioles.png; sourceTree = "<group>"; };
+		0CC6CBF12022DCEC00FA8B27 /* padres.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = padres.png; sourceTree = "<group>"; };
+		0CC6CBF22022DCEC00FA8B27 /* whitesox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitesox.png; sourceTree = "<group>"; };
+		0CC6CBF32022DCEC00FA8B27 /* mets.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mets.png; sourceTree = "<group>"; };
+		0CC6CBF42022DCEC00FA8B27 /* rangers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rangers.png; sourceTree = "<group>"; };
+		0CC6CBF52022DCEC00FA8B27 /* bluejays.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bluejays.png; sourceTree = "<group>"; };
+		0CC6CBF62022DCEC00FA8B27 /* diamondbacks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = diamondbacks.png; sourceTree = "<group>"; };
+		0CC6CBF72022DCEC00FA8B27 /* braves.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = braves.png; sourceTree = "<group>"; };
+		0CC6CBF82022DCEC00FA8B27 /* rockies.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rockies.png; sourceTree = "<group>"; };
+		0CC6CBF92022DCEC00FA8B27 /* mariners.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mariners.png; sourceTree = "<group>"; };
+		0CC6CBFA2022DCEC00FA8B27 /* athletics.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = athletics.png; sourceTree = "<group>"; };
+		0CC6CBFB2022DCEC00FA8B27 /* rays.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rays.png; sourceTree = "<group>"; };
+		0CC6CBFC2022DCEC00FA8B27 /* twins.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twins.png; sourceTree = "<group>"; };
+		0CC6CBFD2022DCEC00FA8B27 /* yankees.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yankees.png; sourceTree = "<group>"; };
+		0CC6CBFE2022DCEC00FA8B27 /* indians.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = indians.png; sourceTree = "<group>"; };
+		0CC6CBFF2022DCEC00FA8B27 /* marlins.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = marlins.png; sourceTree = "<group>"; };
+		0CC6CC002022DCEC00FA8B27 /* phillies.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = phillies.png; sourceTree = "<group>"; };
+		0CC6CC012022DCEC00FA8B27 /* redsox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redsox.png; sourceTree = "<group>"; };
+		0CC6CC022022DCEC00FA8B27 /* royals.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = royals.png; sourceTree = "<group>"; };
+		0CC6CC032022DCEC00FA8B27 /* brewers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brewers.png; sourceTree = "<group>"; };
+		0CC6CC042022DCEC00FA8B27 /* angels.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angels.png; sourceTree = "<group>"; };
+		0CC6CC052022DCEC00FA8B27 /* giants.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = giants.png; sourceTree = "<group>"; };
 		0CE1B3A2200BF1FB009CB576 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		0CE1B3A4200BFB55009CB576 /* QuestionBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionBank.swift; sourceTree = "<group>"; };
 		0CF1D7EC200EDAD200EF9D38 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		633646B91B8C657400FF45E2 /* QuizBall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuizBall.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		633646BD1B8C657400FF45E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		633646BE1B8C657400FF45E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		633646C01B8C657400FF45E2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		633646C01B8C657400FF45E2 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 		633646C31B8C657400FF45E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		633646C81B8C657400FF45E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -49,6 +111,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0CC6CBE72022DCEC00FA8B27 /* mlblogospng */ = {
+			isa = PBXGroup;
+			children = (
+				0CC6CBE82022DCEC00FA8B27 /* astros.png */,
+				0CC6CBE92022DCEC00FA8B27 /* dodgers.png */,
+				0CC6CBEA2022DCEC00FA8B27 /* cubs.png */,
+				0CC6CBEB2022DCEC00FA8B27 /* pirates.png */,
+				0CC6CBEC2022DCEC00FA8B27 /* nationals.png */,
+				0CC6CBED2022DCEC00FA8B27 /* tigers.png */,
+				0CC6CBEE2022DCEC00FA8B27 /* reds.png */,
+				0CC6CBEF2022DCEC00FA8B27 /* cardinals.png */,
+				0CC6CBF02022DCEC00FA8B27 /* orioles.png */,
+				0CC6CBF12022DCEC00FA8B27 /* padres.png */,
+				0CC6CBF22022DCEC00FA8B27 /* whitesox.png */,
+				0CC6CBF32022DCEC00FA8B27 /* mets.png */,
+				0CC6CBF42022DCEC00FA8B27 /* rangers.png */,
+				0CC6CBF52022DCEC00FA8B27 /* bluejays.png */,
+				0CC6CBF62022DCEC00FA8B27 /* diamondbacks.png */,
+				0CC6CBF72022DCEC00FA8B27 /* braves.png */,
+				0CC6CBF82022DCEC00FA8B27 /* rockies.png */,
+				0CC6CBF92022DCEC00FA8B27 /* mariners.png */,
+				0CC6CBFA2022DCEC00FA8B27 /* athletics.png */,
+				0CC6CBFB2022DCEC00FA8B27 /* rays.png */,
+				0CC6CBFC2022DCEC00FA8B27 /* twins.png */,
+				0CC6CBFD2022DCEC00FA8B27 /* yankees.png */,
+				0CC6CBFE2022DCEC00FA8B27 /* indians.png */,
+				0CC6CBFF2022DCEC00FA8B27 /* marlins.png */,
+				0CC6CC002022DCEC00FA8B27 /* phillies.png */,
+				0CC6CC012022DCEC00FA8B27 /* redsox.png */,
+				0CC6CC022022DCEC00FA8B27 /* royals.png */,
+				0CC6CC032022DCEC00FA8B27 /* brewers.png */,
+				0CC6CC042022DCEC00FA8B27 /* angels.png */,
+				0CC6CC052022DCEC00FA8B27 /* giants.png */,
+			);
+			path = mlblogospng;
+			sourceTree = "<group>";
+		};
 		633646B01B8C657400FF45E2 = {
 			isa = PBXGroup;
 			children = (
@@ -94,6 +193,8 @@
 			children = (
 				0C69314D200E8FE70070122E /* Images.xcassets */,
 				633646C21B8C657400FF45E2 /* Main.storyboard */,
+				0CC6CBA72022CA2C00FA8B27 /* logoCell.swift */,
+				0CC6CBE72022DCEC00FA8B27 /* mlblogospng */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -111,7 +212,7 @@
 			isa = PBXGroup;
 			children = (
 				633646BE1B8C657400FF45E2 /* AppDelegate.swift */,
-				633646C01B8C657400FF45E2 /* ViewController.swift */,
+				633646C01B8C657400FF45E2 /* QuestionViewController.swift */,
 				0CF1D7EC200EDAD200EF9D38 /* AboutViewController.swift */,
 				0C893C472016838700FD6EB6 /* LandingViewController.swift */,
 			);
@@ -179,9 +280,39 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C693148200E88D00070122E /* ProgressHUD.bundle in Resources */,
+				0CC6CC0D2022DCEC00FA8B27 /* cardinals.png in Resources */,
+				0CC6CC192022DCEC00FA8B27 /* rays.png in Resources */,
+				0CC6CC132022DCEC00FA8B27 /* bluejays.png in Resources */,
+				0CC6CC102022DCEC00FA8B27 /* whitesox.png in Resources */,
 				0C69314E200E8FE70070122E /* Images.xcassets in Resources */,
+				0CC6CC1E2022DCEC00FA8B27 /* phillies.png in Resources */,
+				0CC6CC112022DCEC00FA8B27 /* mets.png in Resources */,
+				0CC6CC072022DCEC00FA8B27 /* dodgers.png in Resources */,
+				0CC6CC1C2022DCEC00FA8B27 /* indians.png in Resources */,
+				0CC6CC0B2022DCEC00FA8B27 /* tigers.png in Resources */,
+				0CC6CC082022DCEC00FA8B27 /* cubs.png in Resources */,
 				633646C41B8C657400FF45E2 /* Main.storyboard in Resources */,
+				0CC6CC1D2022DCEC00FA8B27 /* marlins.png in Resources */,
+				0CC6CC1A2022DCEC00FA8B27 /* twins.png in Resources */,
 				633646C91B8C657400FF45E2 /* LaunchScreen.xib in Resources */,
+				0CC6CC142022DCEC00FA8B27 /* diamondbacks.png in Resources */,
+				0CC6CC0C2022DCEC00FA8B27 /* reds.png in Resources */,
+				0CC6CC092022DCEC00FA8B27 /* pirates.png in Resources */,
+				0CC6CC232022DCEC00FA8B27 /* giants.png in Resources */,
+				0CC6CC182022DCEC00FA8B27 /* athletics.png in Resources */,
+				0CC6CC1F2022DCEC00FA8B27 /* redsox.png in Resources */,
+				0CC6CC122022DCEC00FA8B27 /* rangers.png in Resources */,
+				0CC6CC1B2022DCEC00FA8B27 /* yankees.png in Resources */,
+				0CC6CC0A2022DCEC00FA8B27 /* nationals.png in Resources */,
+				0CC6CC222022DCEC00FA8B27 /* angels.png in Resources */,
+				0CC6CC212022DCEC00FA8B27 /* brewers.png in Resources */,
+				0CC6CC152022DCEC00FA8B27 /* braves.png in Resources */,
+				0CC6CC162022DCEC00FA8B27 /* rockies.png in Resources */,
+				0CC6CC172022DCEC00FA8B27 /* mariners.png in Resources */,
+				0CC6CC062022DCEC00FA8B27 /* astros.png in Resources */,
+				0CC6CC0F2022DCEC00FA8B27 /* padres.png in Resources */,
+				0CC6CC202022DCEC00FA8B27 /* royals.png in Resources */,
+				0CC6CC0E2022DCEC00FA8B27 /* orioles.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -194,10 +325,11 @@
 			files = (
 				0CF1D7ED200EDAD200EF9D38 /* AboutViewController.swift in Sources */,
 				0C893C482016838700FD6EB6 /* LandingViewController.swift in Sources */,
+				0CC6CBA82022CA2C00FA8B27 /* logoCell.swift in Sources */,
 				0CE1B3A3200BF1FB009CB576 /* Question.swift in Sources */,
 				0CE1B3A5200BFB55009CB576 /* QuestionBank.swift in Sources */,
 				0C693149200E88D00070122E /* ProgressHUD.m in Sources */,
-				633646C11B8C657400FF45E2 /* ViewController.swift in Sources */,
+				633646C11B8C657400FF45E2 /* QuestionViewController.swift in Sources */,
 				633646BF1B8C657400FF45E2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

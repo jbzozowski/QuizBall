@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  QuestionViewController.swift
 //  QuizBall
 //
 //  Created by Julius Bzozowski on 1/16/2018.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class QuestionViewController: UIViewController {
     
     let allQuestions = QuestionBank()
     var pickedAnswer : Bool = false

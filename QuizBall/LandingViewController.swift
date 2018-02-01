@@ -8,12 +8,28 @@
 
 import UIKit
 
-class LandingViewController: UIViewController {
+let array:[String] = ["astros", "dodgers", "cubs", "pirates", "nationals", "tigers", "reds", "cardinals", "orioles", "padres", "whitesox", "mets", "rangers", "bluejays", "diamondbacks", "braves", "rockies", "mariners", "athletics", "rays", "twins", "yankees", "indians", "marlins", "phillies", "redsox", "royals", "brewers", "angels", "giants"]
+
+class LandingViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate {
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return array.count
+    }
+    
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath) as! logoCell
+        cell.logoView.image = UIImage(named: array[indexPath.item] + ".png")
+        return cell
+    }
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+       let itemSize = UIScreen.main.bounds.width/3
+        
+        let layout = UICollectionViewFlowLayout()
+        layout.sectionInset = UIEdgeInsetsMake(10, 10, 10, 10)
+        layout.itemSize = CGSize(width: itemSize, height: itemSize)
     }
 
     override func didReceiveMemoryWarning() {
